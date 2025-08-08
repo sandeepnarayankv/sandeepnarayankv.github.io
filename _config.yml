@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My Ultralearning Journey # blog_name will be displayed in your blog page
-blog_description: a Day to Day journal mainly on my Ultralearning Journey and sometimes my Life
+blog_name: Overclocked Mind # blog_name will be displayed in your blog page
+blog_description: Wiring my second brain and supercharging my mind through Ultralearning, exploration, and relentless curiosity.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

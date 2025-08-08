@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an **Electronics Engineer by education** and an **Oracle Database Developer & Project Manager by profession**. Over the years, I have blended technical expertise with project leadership to deliver impactful solutions. I am deeply passionate about **Ultralearning**—pushing the boundaries of how quickly and effectively we can acquire skills—and about building my **second brain** to capture, organize, and expand knowledge.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Curiosity drives me to explore **technology, systems thinking, and personal growth**. Reading has been a lifelong habit, shaping both my perspective and problem-solving skills. Outside of work and learning, I’m a devoted **football fan** with a special place in my heart for **Manchester United**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Overclocked Mind** is my space to share insights, reflections, and experiments from my journey—**wiring my second brain and supercharging my mind through Ultralearning, exploration, and relentless curiosity**.
