@@ -1,15 +1,16 @@
 # some information about you
-name: "Sandeep Narayan KV"
+name: "Sandeep Narayan Kizhakke Veettil"
 nickname: "Sandeep"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/author/sandeep.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "sandeep.narayan.kv@gmail.com"
   phone: "+919986714400"
   github: sandeepnarayankv
-  linkedin: johndoe
+  linkedin: sandeepnarayankv
+  twitter: sandeepnkv
   # researchgate: john-doe
 
 # some summary about what you do

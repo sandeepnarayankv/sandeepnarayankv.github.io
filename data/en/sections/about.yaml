@@ -8,54 +8,54 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Sr. Technology Architect
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Cognizant Technology Solutions
+  url: "https://www.cognizant.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc."
+summary: "I am a passionate software engineer with around 19 years of working experience Working as a Sr. Technology Architect at Cognizant Technology Solutions India Pvt. Ltd. I work extensively on Oracle Cloud, Oracle ERP and Oracle Database technologies. I have strong expertise on Oracle Database, Oracle EBS and Oracle Cloud Technical Stack. I have worked on various projects in the areas of Oracle Cloud, Oracle EBS, Oracle Database, Oracle Fusion Technical Stack, Oracle Workflow, Oracle PL/SQL, Oracle Application Framework (OAF), Oracle BI Publisher, and Oracle Application Framework (OAF). I have a strong interest in Generative AI and its applications in the enterprise software space and is certified in Oracle Apex and Oracle Generative AI. I am also a PMP Certified Project Manager and have a strong interest in Agile methodologies and Certified SAFe Agile Scrum Master. I am currently in the process of learning Oracle Visual Builder, Redwood, Oracle AI Agents Studio and Agentic AI."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: Email
     icon: "fas fa-envelope"
-    url: "example@gmail.com"
+    url: "sandeep.narayan.kv@gmail.com"
 
   - name: Github
     icon: "fab fa-github"
-    url: "https://www.github.com/example"
+    url: "https://www.github.com/sandeepnarayankv"
 
-  - name: Stackoverflow
-    icon: "fab fa-stack-overflow"
-    url: "#"
+  # - name: Stackoverflow
+  #   icon: "fab fa-stack-overflow"
+  #   url: "#"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"
-    url: "#"
+    url: "https://www.linkedin.com/in/sandeepnarayankv"
 
   - name: Twitter
     icon: "fab fa-twitter"
-    url: "#"
+    url: "https://x.com/sandeepnkv"
 
-  - name: Facebook
-    icon: "fab fa-facebook"
-    url: "#"
+  # - name: Facebook
+  #   icon: "fab fa-facebook"
+  #   url: "#"
 
-  - name: Mastadon
-    icon: "fab fa-mastodon"
-    url: "#"
-    rel: "me noopener"
+  # - name: Mastadon
+  #   icon: "fab fa-mastodon"
+  #   url: "#"
+  #   rel: "me noopener"
 
-  - name: ResearchGate
-    icon: "fab fa-researchgate"
-    url: "https://www.researchgate.net/profile/john-doe"
+  # - name: ResearchGate
+  #   icon: "fab fa-researchgate"
+  #   url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -68,23 +68,38 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
   - type: certification
-    name: Certified Kubernetes Security Specialist
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+    name: SAFe 6 Scrum Master
+    url: "#"
+    badge: "https://safe.scaledagile.com/images/certifications/6/CertMark-SSM-150.png"
 
   - type: certification
-    name: Istio and IBM Cloud Kubernetes Service
-    url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-    badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+    name: Project Management Professional (PMP)
+    url: "https://www.pmi.org/certifications/certification-resources/registry?search=Sandeep%20Narayan%20Kizhakke%20Veettil"
+    badge: "https://img-c.udemycdn.com/open-badges/v2/badge-class/1861472597/4f2f6ef4-9fc2-4dd7-93ad-a3917deb59381723524492331504731.png"
 
   - type: certification
-    name: Artificial Intelligence and Machine Learning
-    url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-    badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+    name: Oracle APEX Cloud Developer Certified Professional
+    url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=2893577AB1F5B02A45603CE16647602BFE1188B4989C0D4BAF8EE5AC9688455D"
+    badge: "https://brm-workforce.oracle.com/pdf/certview/images/APEX23OCP.png"
+
+  - type: certification
+    name: Oracle AI Vector Search Certified Professional
+    url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=0C008990CAB7E062A695D7E1981DEDC458DC87F8A8B80CEAF4AAD6308E407926"
+    badge: "https://brm-workforce.oracle.com/pdf/certview/images/DB23AIOCP.png"
+
+  - type: certification
+    name: Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+    url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=5CE6E210886A53F13DBDCBEBD492D803FA689506B17AAC2F4A3928A626BF51D0"
+    badge: "https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png"
+
+  - type: certification
+    name: Oracle Cloud Infrastructure 2023 Certified Data Science Professional
+    url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E768C9D95D0678736DB61AC46C94D57BE4198F72B2BF466D6E4C1FF18F738279"
+    badge: "https://brm-workforce.oracle.com/pdf/certview/images/OCIDSP2023OPN.png"
 
   - type: soft-skill-indicator
     name: Leadership
-    percentage: 85
+    percentage: 90
     color: blue
 
   - type: soft-skill-indicator
